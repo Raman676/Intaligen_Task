@@ -1,4 +1,4 @@
-ultralytics==8.2.0 (For AI model)
+ultralytics==8.2.0 
 COMMON FOR BOTH MODELS
 opencv-python==4.8.0.76
 numpy==1.24.3
