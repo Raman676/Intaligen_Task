@@ -1,1 +1,7 @@
-
+ultralytics==8.2.0 (For AI model)
+COMMON FOR BOTH MODELS
+opencv-python==4.8.0.76
+numpy==1.24.3
+scipy==1.11.1
+scikit-image==0.21.0
+matplotlib==3.7.2
